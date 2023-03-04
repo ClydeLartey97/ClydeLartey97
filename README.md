@@ -1,7 +1,1 @@
-###DAVID CLYDE LARTEY
-
-
-DCLP97
-
-
-
+David Clyde Lartey
