@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+<img src="https://github.com/user-attachments/assets/6f8e2b3a-loading-bar.gif" width="100%" />
 
 This is a working directory.
 
