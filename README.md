@@ -1,4 +1,4 @@
-# Clyde 🔋
+# Clyde
 
 This is a working directory.
 
