@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/6RMhx.gif" width="60"/>
-</p>
+initialising <img src="https://i.imgur.com/6RMhx.gif" width="40"/>
 
 # Clyde
 
