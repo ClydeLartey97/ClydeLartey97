@@ -1,22 +1,22 @@
-# /
+# <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 
 This is a working directory.
 
 Things appear here when they are interesting enough to keep and disappear when they are not.
 
+
 ---
 
-## what you will find
+## What you will find.
 
 - half-built ideas  
 - tools that solve very specific problems  
 - experiments that may or may not work again  
 - occasional things that are actually useful  
 
-
 ---
 
-## what you will not find
+## What you will not find
 
 - tutorials  
 - polished portfolios  
@@ -25,7 +25,7 @@ Things appear here when they are interesting enough to keep and disappear when t
 
 ---
 
-## rules
+## Rules
 
 1. if it is obvious, it is probably not here  
 2. if it is clean, it is probably lying  
@@ -33,7 +33,7 @@ Things appear here when they are interesting enough to keep and disappear when t
 
 ---
 
-## current state
+## Current State
 
 unknown
 
