@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/6f8e2b3a-loading-bar.gif" width="100%" />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+
+# /
 
 This is a working directory.
 
