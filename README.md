@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/6RMhx.gif" width="60"/>
 </p>
 
-# /
+# Clyde
 
 This is a working directory.
 
