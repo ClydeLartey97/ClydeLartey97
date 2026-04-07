@@ -8,4 +8,4 @@ This is a working directory.
 
 Things appear here when they are interesting enough to keep and disappear when they are not.
 
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="80"/>
+
