@@ -1,4 +1,4 @@
-initialising <img src="https://i.imgur.com/6RMhx.gif" width="40"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60"/>
 
 # Clyde
 
